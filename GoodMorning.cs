@@ -7,6 +7,12 @@ public class GoodMorning()
         Console.Write("Input Username: ");
         string? userInput = Console.ReadLine();
 
+        if (string.IsNullOrWhiteSpace(userInput))
+        {
+            Console.WriteLine("Invalid input. Please try again.");
+            return;
+        }
+
 
         DateTime timeNow = DateTime.Now;
 
