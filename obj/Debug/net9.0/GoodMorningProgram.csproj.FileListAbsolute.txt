@@ -1,0 +1,14 @@
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\bin\Debug\net9.0\GoodMorningProgram.exe
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\bin\Debug\net9.0\GoodMorningProgram.deps.json
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\bin\Debug\net9.0\GoodMorningProgram.runtimeconfig.json
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\bin\Debug\net9.0\GoodMorningProgram.dll
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\bin\Debug\net9.0\GoodMorningProgram.pdb
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\obj\Debug\net9.0\GoodMorningProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\obj\Debug\net9.0\GoodMorningProgram.AssemblyInfoInputs.cache
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\obj\Debug\net9.0\GoodMorningProgram.AssemblyInfo.cs
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\obj\Debug\net9.0\GoodMorningProgram.csproj.CoreCompileInputs.cache
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\obj\Debug\net9.0\GoodMorningProgram.dll
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\obj\Debug\net9.0\refint\GoodMorningProgram.dll
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\obj\Debug\net9.0\GoodMorningProgram.pdb
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\obj\Debug\net9.0\GoodMorningProgram.genruntimeconfig.cache
+C:\Users\ivar_\Desktop\VSC\GoodMorningProgram\obj\Debug\net9.0\ref\GoodMorningProgram.dll
