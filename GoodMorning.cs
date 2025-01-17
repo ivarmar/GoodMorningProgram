@@ -19,7 +19,7 @@ public class GoodMorning()
         TimeOfDay currentTimeOfDay = GetStateOfDay(timeNow);
         string message = TimeOfDayMessage(currentTimeOfDay);
 
-        Console.WriteLine($"{message} {userInput}! Right now the time is {timeNow:t}");
+        Console.WriteLine($"{currentTimeOfDay}, {message} {userInput}! Right now the time is {timeNow:t}");
 
     }
 
